@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Eduardo Cardoso 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cardoso-b5745a1a3/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 [![Jetbrains](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://hyperskill.org/profile/370647076)
 
