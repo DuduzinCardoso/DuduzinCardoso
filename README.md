@@ -31,7 +31,7 @@
     <a href="https://www.linkedin.com/in/eduardo-cardoso-b5745a1a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:eduardocardoso.kami@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div><br>
- <img alt="Megumin" src="https://www.icegif.com/wp-content/uploads/icegif-1315.gif">
+ <img alt="Megumin" src="https://e0.pxfuel.com/wallpapers/53/72/desktop-wallpaper-java-wallpepar-kotlin.jpg" width="600px">
 
 
 
